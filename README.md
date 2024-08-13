@@ -1,3 +1,4 @@
+
 <img alt="Header" src="./5.png" />
 <h3>Welcome to my page!
 </h3>
@@ -28,4 +29,4 @@
 </p>
 <hr>
 <h3>My stars ⭐</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=emmanueldev79&show_icons=true&bg_color=000000" alt="GitHub Stats">
+<center><img class="github-stats" style="border:none;border:1px solid #0D1117;margin:0 44px;" src="https://github-readme-stats.vercel.app/api?username=emmanueldev79&show_icons=true&bg_color=0D1117&border=none" alt="GitHub Stats"></center>
