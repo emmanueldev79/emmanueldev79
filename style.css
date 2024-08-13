@@ -20,7 +20,7 @@ body {
   height: auto;
   min-height: 200px;
   background-color: #07090c;
-  background: linear-gradient(to bottom right, #0D1117, #24272c, #0D1117);
+  background: linear-gradient(to bottom right, #0D1117, #0D1117, #03263c, #0D1117, #0D1117);
   padding: 8px;
 
   & p {
