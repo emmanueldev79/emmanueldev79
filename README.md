@@ -3,9 +3,11 @@
 <p>I'm from <img src="./flag-for-colombia-svgrepo-com.svg" width="13"/> <b>Colombia</b>, currently living in <b>La Ceja</b>.</p>
 
 <h3>Things I code with</h3>
+<table>
 
-<!-- Front-end Table -->
-<table cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <td>
+      <table cellpadding="10" cellspacing="0" width="100%">
   <thead>
     <tr>
       <th colspan="8">Front-end</th>
@@ -26,9 +28,9 @@
     </tr>
   </tbody>
 </table>
-
-<!-- Back-end Table -->
-<table cellpadding="10" cellspacing="0">
+    </td>
+    <td>
+      <table cellpadding="10" cellspacing="0">
   <thead>
     <tr>
       <th colspan="12">Back-end</th>
@@ -55,9 +57,10 @@
     </tr>
   </tbody>
 </table>
-
-<!-- Databases Table -->
-<table cellpadding="10" cellspacing="0">
+    </td>
+  </tr>
+  <tr>
+    <td><table cellpadding="10" cellspacing="0">
   <thead>
     <tr>
       <th colspan="3">Databases</th>
@@ -71,9 +74,8 @@
     </tr>
   </tbody>
 </table>
-
-<!-- Android and IOS Development Table -->
-<table cellpadding="10" cellspacing="0">
+</td>
+    <td><table cellpadding="10" cellspacing="0">
   <thead>
     <tr>
       <th colspan="4">Android and IOS Development</th>
@@ -87,7 +89,19 @@
       <td><img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0D1117?style=flat-square&logo=kotlin&logoColor=ffffff" /></td>
     </tr>
   </tbody>
+</table></td>
+  </tr>
 </table>
+<!-- Front-end Table -->
+
+
+<!-- Back-end Table -->
+
+
+<!-- Databases Table -->
+
+<!-- Android and IOS Development Table -->
+
 
 <hr>
 
