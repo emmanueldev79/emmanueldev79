@@ -68,7 +68,6 @@
       <td><img alt="JSON" src="https://img.shields.io/badge/-JSON-0D1117?style=flat-square&logo=json&logoColor=676767" /></td>
       <td><img alt="MySQL" src="https://img.shields.io/badge/-MySql-0D1117?style=flat-square&logo=mysql&logoColor=E59208" /></td>
       <td><img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=386595" /></td>
-      <td></td> <!-- Empty cell to match the 4-column format -->
     </tr>
   </tbody>
 </table>
