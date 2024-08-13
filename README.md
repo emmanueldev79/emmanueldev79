@@ -12,6 +12,7 @@
   <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-0D1117?style=flat-square&logo=Next.js&logoColor=ffffff" /><br />
   <img alt="ExpressJS" src="https://img.shields.io/badge/-ExpressJS-0D1117?style=flat-square&logo=express&logoColor=ffffff" /><br />
   <img alt="Git" src="https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&logoColor=E85030" /><br />
+  <img alt="Swift" src="https://img.shields.io/badge/-Swift-0D1117?style=flat-square&logo=swift&logoColor=F29C39" /><br />
 
  
 </p>
