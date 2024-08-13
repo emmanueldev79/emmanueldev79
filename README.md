@@ -1,5 +1,4 @@
-
-<img alt="Header" src="./5.png" />
+<img alt="Header" src="./7.png" />
 <h3>Welcome to my page!
 </h3>
 <p> I'm from <img src="./flag-for-colombia-svgrepo-com.svg" width="13"/> <b>Colombia</b>, currently living in <b>La Ceja</b>. </p>
