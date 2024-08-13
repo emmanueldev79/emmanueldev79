@@ -26,3 +26,6 @@
   <img alt="koa" src="https://img.shields.io/badge/-Koa-0D1117?style=flat-square&logo=koa&logoColor=ffffff" /><br />
 
 </p>
+<hr>
+<h3>My stars ⭐</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=emmanueldev79&show_icons=true&bg_color=000000" alt="GitHub Stats">
