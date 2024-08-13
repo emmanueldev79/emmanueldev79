@@ -45,7 +45,7 @@
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![](https://img.shields.io/badge/logo-css-blue?logo=css)
-   ![](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+   ![](https://img.shields.io/badge/logo-javascript-blue?)
 
 <br>
 
