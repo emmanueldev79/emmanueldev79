@@ -1,4 +1,4 @@
-<img alt="Header" src="./4.png" />
+<img alt="Header" src="./5.png" />
 <p>Welcome to my page! </br> I'm from <img src="./flag-for-colombia-svgrepo-com.svg" width="13"/> <b>Colombia</b>, currently living in <b>La Ceja</b>. </p>
 <h3>Things I code with</h3>
 <p>
@@ -23,6 +23,4 @@
   <img alt="yarn" src="https://img.shields.io/badge/-yarn-0D1117?style=flat-square&logo=yarn&logoColor=2B8CB8" /><br />
   <img alt="koa" src="https://img.shields.io/badge/-Koa-0D1117?style=flat-square&logo=koa&logoColor=ffffff" /><br />
 
- 
 </p>
-
