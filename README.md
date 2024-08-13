@@ -1,5 +1,6 @@
 <img alt="Header" src="./5.png" />
-<p>Welcome to my page! </br> I'm from <img src="./flag-for-colombia-svgrepo-com.svg" width="13"/> <b>Colombia</b>, currently living in <b>La Ceja</b>. </p>
+## Welcome to my page!
+<p> I'm from <img src="./flag-for-colombia-svgrepo-com.svg" width="13"/> <b>Colombia</b>, currently living in <b>La Ceja</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="Git" src="https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&logoColor=E85030" /><br />
