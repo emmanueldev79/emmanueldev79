@@ -42,10 +42,10 @@
       <td><img alt="Spring" src="https://img.shields.io/badge/-Spring-0D1117?style=flat-square&logo=spring&logoColor=6BB03E" /></td>
     </tr>
     <tr>
-      <td><img alt="NextJS" src="https://img.shields.io/badge/-NextJS-0D1117?style=flat-square&logo=Next.js&logoColor=ffffff" /></td>
-      <td><img alt="ExpressJS" src="https://img.shields.io/badge/-ExpressJS-0D1117?style=flat-square&logo=express&logoColor=ffffff" /></td>
-      <td><img alt="Yarn" src="https://img.shields.io/badge/-yarn-0D1117?style=flat-square&logo=yarn&logoColor=2B8CB8" /></td>
-      <td><img alt="npm" src="https://img.shields.io/badge/-npm-0D1117?style=flat-square&logo=npm&logoColor=C50001" /></td>
+      <td><img alt="NextJS" src="https://img.shields.io/badge/-NextJS-161B22?style=flat-square&logo=Next.js&logoColor=ffffff" /></td>
+      <td><img alt="ExpressJS" src="https://img.shields.io/badge/-ExpressJS-161B22?style=flat-square&logo=express&logoColor=ffffff" /></td>
+      <td><img alt="Yarn" src="https://img.shields.io/badge/-yarn-161B22?style=flat-square&logo=yarn&logoColor=2B8CB8" /></td>
+      <td><img alt="npm" src="https://img.shields.io/badge/-npm-161B22?style=flat-square&logo=npm&logoColor=C50001" /></td>
     </tr>
     <tr>
       <td><img alt="Koa" src="https://img.shields.io/badge/-Koa-0D1117?style=flat-square&logo=koa&logoColor=ffffff" /></td>
