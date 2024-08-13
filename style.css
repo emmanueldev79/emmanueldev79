@@ -7,7 +7,7 @@
 body {
   background-color: #3a3a3a;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  color: rgb(60, 60, 60);
+  color: white;
   min-height: 100vh;
   display: flex;
   justify-content: center;
@@ -20,7 +20,7 @@ body {
   height: auto;
   min-height: 200px;
   background-color: #07090c;
-  background: linear-gradient(to bottom right, #cdcd37, #e8f5ba);
+  background: linear-gradient(to bottom right, #010409, #393a3c);
   padding: 8px;
 
   & p {
