@@ -1,5 +1,6 @@
 <img alt="Header" src="./5.png" />
-## Welcome to my page!
+<h3>Welcome to my page!
+</h3>
 <p> I'm from <img src="./flag-for-colombia-svgrepo-com.svg" width="13"/> <b>Colombia</b>, currently living in <b>La Ceja</b>. </p>
 <h3>Things I code with</h3>
 <p>
