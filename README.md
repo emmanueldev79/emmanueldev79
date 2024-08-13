@@ -17,10 +17,12 @@
       <td><img alt="CSS3" src="https://img.shields.io/badge/-CSS3-0D1117?style=flat-square&logo=css3&logoColor=006FB4" /></td>
       <td><img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8" /></td>
       <td><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=EFD81C" /></td>
-      <td><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=0077C8" /></td>
-      <td><img alt="React" src="https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react&logoColor=00D8FB" /></td>
-      <td><img alt="Git" src="https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&logoColor=E85030" /></td>
-      <td><img alt="GitHub" src="https://img.shields.io/badge/-github-0D1117?style=flat-square&logo=github&logoColor=ffffff" /></td>
+    </tr>
+    <tr>
+      <td><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-161B22?style=flat-square&logo=typescript&logoColor=0077C8" /></td>
+      <td><img alt="React" src="https://img.shields.io/badge/-React-161B22?style=flat-square&logo=react&logoColor=00D8FB" /></td>
+      <td><img alt="Git" src="https://img.shields.io/badge/-Git-161B22?style=flat-square&logo=git&logoColor=E85030" /></td>
+      <td><img alt="GitHub" src="https://img.shields.io/badge/-github-161B22?style=flat-square&logo=github&logoColor=ffffff" /></td>
     </tr>
   </tbody>
 </table>
@@ -38,10 +40,14 @@
       <td><img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-0D1117?style=flat-square&logo=Node.js&logoColor=88C100" /></td>
       <td><img alt="Python" src="https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python&logoColor=7D94F5" /></td>
       <td><img alt="Spring" src="https://img.shields.io/badge/-Spring-0D1117?style=flat-square&logo=spring&logoColor=6BB03E" /></td>
+    </tr>
+    <tr>
       <td><img alt="NextJS" src="https://img.shields.io/badge/-NextJS-0D1117?style=flat-square&logo=Next.js&logoColor=ffffff" /></td>
       <td><img alt="ExpressJS" src="https://img.shields.io/badge/-ExpressJS-0D1117?style=flat-square&logo=express&logoColor=ffffff" /></td>
       <td><img alt="Yarn" src="https://img.shields.io/badge/-yarn-0D1117?style=flat-square&logo=yarn&logoColor=2B8CB8" /></td>
       <td><img alt="npm" src="https://img.shields.io/badge/-npm-0D1117?style=flat-square&logo=npm&logoColor=C50001" /></td>
+    </tr>
+    <tr>
       <td><img alt="Koa" src="https://img.shields.io/badge/-Koa-0D1117?style=flat-square&logo=koa&logoColor=ffffff" /></td>
       <td><img alt="C" src="https://img.shields.io/badge/-C-0D1117?style=flat-square&logo=c&logoColor=3D46C7" /></td>
       <td><img alt="Docker" src="https://img.shields.io/badge/-Docker-0D1117?style=flat-square&logo=docker&logoColor=2597EF" /></td>
